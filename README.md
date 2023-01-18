@@ -1,16 +1,18 @@
-### Hi there 👋
+I'm currently working on 'Video Chat' Application 
 
-<!--
-**glubega67/Zackmantech256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**glubega67/Zackmantech256** is an organization based in fort portal city mostly known for producing the best music in western Uganda in Zack Man Production Studio.✨ It has served for over More than 15 years not only Music but also involved in technology now working on my first project called (Video Chat) a messenger for video calls,Chat, texting, messaging app very fast secure and easy to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
